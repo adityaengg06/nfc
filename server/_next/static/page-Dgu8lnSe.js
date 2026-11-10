@@ -1,0 +1,1 @@
+import{t as e}from"./render-page-Cverh74q.js";var t=`force-dynamic`;async function n({searchParams:t}){let n=await t;return e(`upload-design`,{product:n.product||`custom`,upload:!0,design:n.design})}export{n as default,t as dynamic};

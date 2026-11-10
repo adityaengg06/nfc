@@ -1,0 +1,1 @@
+import"./commerce-sSB-qc3s.js";import{env as e}from"cloudflare:workers";function t(t){return t.toLowerCase()===(e.ADMIN_EMAIL||`buisness.aditya2006@gmail.com`).toLowerCase()}function n(e,t=400){return Response.json({error:e},{status:t,headers:{"Cache-Control":`private, no-store`}})}export{t as n,n as t};

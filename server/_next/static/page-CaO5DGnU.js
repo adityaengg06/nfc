@@ -1,0 +1,1 @@
+import{t as e}from"./render-page-Cverh74q.js";var t=`force-dynamic`,n={title:`Social NFC Displays | NIRMAAN`};async function r({searchParams:t}){let n=await t;return e(`social`,{product:n.product,editing:n.edit===`1`})}export{r as default,t as dynamic,n as metadata};

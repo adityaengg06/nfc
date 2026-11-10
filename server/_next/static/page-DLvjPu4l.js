@@ -1,0 +1,1 @@
+import{t as e}from"./render-page-Cverh74q.js";var t=`force-dynamic`,n={title:`Order & Payment Terms | NIRMAAN`};async function r({searchParams:t}){let n=await t;return e(`terms`,{product:n.product,editing:n.edit===`1`})}export{r as default,t as dynamic,n as metadata};

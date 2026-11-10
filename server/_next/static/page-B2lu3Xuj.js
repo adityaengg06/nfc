@@ -1,0 +1,1 @@
+import{t as e}from"./render-page-Cverh74q.js";var t=`force-dynamic`,n={title:`Customize & Checkout | NIRMAAN`};async function r({searchParams:t}){let n=await t;return e(`checkout`,{product:n.product,editing:n.edit===`1`,design:n.design,upload:n.upload===`1`})}export{r as default,t as dynamic,n as metadata};

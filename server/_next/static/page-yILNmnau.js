@@ -1,0 +1,1 @@
+import{t as e}from"./render-page-Cverh74q.js";var t=`force-dynamic`,n={title:`Event NFC Cards | NIRMAAN`};async function r(){return e(`event`)}export{r as default,t as dynamic,n as metadata};

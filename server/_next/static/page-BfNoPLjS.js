@@ -1,0 +1,1 @@
+import{n as e}from"./navigation-errors-CGBIlqJ3.js";import"./navigation.react-server-BFHr2Fq5.js";import{t}from"./render-page-Cverh74q.js";import{r as n}from"./commerce-sSB-qc3s.js";var r=`force-dynamic`;async function i({params:r}){let{product:i}=await r;return n.includes(i)||e(),t(`designs`,{product:i})}export{i as default,r as dynamic};
